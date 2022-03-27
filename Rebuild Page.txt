@@ -1,0 +1,3 @@
+event listeners not in functions
+change css text with functions element.style.cssText
+rebuild grid with functions

@@ -4,8 +4,7 @@ body {
 }
 
 #controls {
-    height: 640px;
-    width: 200px;
+    width: 100px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -25,8 +24,8 @@ body {
 }
 
 #grid {
-    width: 640px;
-    height: 640px;
+    width: 460px;
+    height: 460px;
     display: flex;
     flex-wrap: wrap;
     outline: 2px solid;
@@ -39,3 +38,10 @@ body {
     /*outline: 1px solid;
     outline-color: rgb(235, 231, 231); */
 }
+
+#cell23{
+    height: 20px;
+    width: 20px; 
+}
+
+
